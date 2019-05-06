@@ -1,0 +1,13 @@
+let counter = 0;
+
+function deepIterator (target) {
+  counter++;
+
+  if (typeof target === 'object') {
+    for (const key in target) {
+      deepIterator(target[key]);
+    }
+  } else {
+    console.log(target);
+  }
+}

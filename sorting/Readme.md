@@ -9,7 +9,7 @@ Main comparison-based sorting algorithms are:
   
 -------------------------------------------------------------
 
-#**Bubble Sort**
+**Bubble Sort**
 
 Given an array of N elements, Bubble Sort will:
 
@@ -25,7 +25,7 @@ Given an array of N elements, Bubble Sort will:
   
 -----------------------------------------------------------------
 
-#**Selection Sort**
+**Selection Sort**
 
 Given an array of N items and L = 0, Selection Sort will:
 

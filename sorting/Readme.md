@@ -10,6 +10,7 @@ Main comparison-based sorting algorithms are:
 -------------------------------------------------------------
 
 #**Bubble Sort**
+
 Given an array of N elements, Bubble Sort will:
 
   1.Compare a pair of adjacent items (a, b),
@@ -23,7 +24,9 @@ Given an array of N elements, Bubble Sort will:
   5.We then reduce N by 1 and repeat Step 1 until we have N = 1.
   
 -----------------------------------------------------------------
+
 #**Selection Sort**
+
 Given an array of N items and L = 0, Selection Sort will:
 
   1.Find the position X of the smallest item in the range of [L...N−1],

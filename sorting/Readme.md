@@ -1,8 +1,8 @@
 The time complexity of comparison-based sorting algorithms are mostly O(n^2).
 Main comparison-based sorting algorithms are:
-  Bubble Sort
-  Selection Sort
-  Insertion Sort
+  1.Bubble Sort
+  2.Selection Sort
+  3.Insertion Sort
   
   
 #**Bubble Sort**
